@@ -1,0 +1,32 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Imagens/37dvjav383l91-490928714.jpg
+File10[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260714_120953.png
+File2[$e]=$HOME/Imagens/eb83ba58f7f01da392e4b76aeeb8d2e7.jpg
+File3[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260713_180446.png
+File4[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260713_204710.png
+File5[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260713_204743.png
+File6[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260714_093530.png
+File7[$e]=$HOME/Imagens/todoist_yir_ig-social-card.png.jpeg
+File8[$e]=$HOME/Imagens/RDT_20260712_2227115184197900639333427.jpg
+File9[$e]=$HOME/Imagens/Capturas de tela/Captura_de_tela_20260714_113814.png
+Name1[$e]=37dvjav383l91-490928714.jpg
+Name10[$e]=Captura_de_tela_20260714_120953.png
+Name2[$e]=eb83ba58f7f01da392e4b76aeeb8d2e7.jpg
+Name3[$e]=Captura_de_tela_20260713_180446.png
+Name4[$e]=Captura_de_tela_20260713_204710.png
+Name5[$e]=Captura_de_tela_20260713_204743.png
+Name6[$e]=Captura_de_tela_20260714_093530.png
+Name7[$e]=todoist_yir_ig-social-card.png.jpeg
+Name8[$e]=RDT_20260712_2227115184197900639333427.jpg
+Name9[$e]=Captura_de_tela_20260714_113814.png
+
+[SideBar]
+InformationSplitterSizes=220,255
+SideBarSplitterSizes=273,1646
