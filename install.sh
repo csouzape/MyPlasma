@@ -37,7 +37,7 @@ link() {
     echo "linked  ${dst#"$HOME"/}"
 }
 
-# config/plasma/*  ->  $XDG_CONFIG_HOME/*
+
 while IFS= read -r -d '' f; do
     rel="${f#"$CONFIG_DIR"/plasma/}"
     link "$f" "$XDG_CONFIG_HOME/$rel"
