@@ -1,0 +1,16 @@
+MenuBar=Disabled
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2026,7,11,10,53,22.345
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,glycin-svg,imagethumbnail,windowsimagethumbnail,exrthumbnail,jpegthumbnail,svgthumbnail,glycin-jxl

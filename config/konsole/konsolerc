@@ -1,0 +1,12 @@
+[Desktop Entry]
+DefaultProfile=csouzape.profile
+
+[General]
+ConfigVersion=1
+
+[Notification Messages]
+CloseAllEmptyTabs=false
+CloseAllTabs=true
+
+[UiSettings]
+ColorScheme=
