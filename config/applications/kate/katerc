@@ -19,9 +19,6 @@ Text Font=monospace,9,-1,2,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 Text Font Features=
 Word Wrap Marker=false
 
-[MainWindow]
-2 screens: Height=1012
-2 screens: Width=960
 
 [UiSettings]
 ColorScheme=MateriaDark
